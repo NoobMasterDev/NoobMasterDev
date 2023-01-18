@@ -1,12 +1,11 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="800">
 <br>
 <img src="https://github.com/NoobMasterDev/NoobMasterDev/blob/master/Image/smile-anime-girl.gif?raw=true" width="800">
 <br>
 </div>
 <div align="center">𝓣𝓱𝓲𝓼 𝓪𝓬𝓬𝓸𝓾𝓷𝓽 𝔀𝓪𝓼 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓳𝓾𝓼𝓽 𝓯𝓸𝓻 𝓯𝓾𝓷.</div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&width=435&lines=%F0%9D%93%97%F0%9D%93%B2+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B6+%F0%9D%93%9D%F0%9D%93%B8%F0%9D%93%B8%F0%9D%93%AB%F0%9D%93%9C%F0%9D%93%AA%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
 </h1>
 <body>
 <br>
@@ -19,6 +18,9 @@
 <br>
 <h2 align="center"><img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="35px" height="35px">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 <img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="35px" height="35px"></h2>
 <br>
+  <img align="center"
+       src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" 
+       width="1000">
 <img align="left" src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/b838ed9eead6ce4b448bc020883ec881.gif" width="150px"/>
 
 ```csharp
@@ -35,13 +37,14 @@ Location: Indonesia.
 Loves: Anime, Video Games, Music.
 Hobbies: Watching Anime, Playing Games, Coding.
 ```
-<br>
+  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="1000">
   <br>
   <details close>
-    <summary align="left"><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&width=440&height=88&lines=%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9C%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BC;%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%AF%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%AE;%F0%9D%92%A2%F0%9D%92%BE%F0%9D%93%89%F0%9D%92%BD%F0%9D%93%8A%F0%9D%92%B7+%F0%9D%92%AE%F0%9D%93%89%F0%9D%92%B6%F0%9D%93%89%F0%9D%93%8A%F0%9D%93%88"></div></summary>
+    <summary align="left"><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&width=440&height=88&lines=%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9C%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BC;%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%AF%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%AE;%F0%9D%92%A2%F0%9D%92%BE%F0%9D%93%89%F0%9D%92%BD%F0%9D%93%8A%F0%9D%92%B7+%F0%9D%92%AE%F0%9D%93%89%F0%9D%92%B6%F0%9D%93%89%F0%9D%93%8A%F0%9D%93%88" width="400"></div></summary>
     <br>
     <div align="center">
-      <img src="https://metrics.lecoq.io/NoobMasterDev?template=classic&isocalendar=1&languages=1&lines=1&followup=1&people=1&achievements=1&code=1&gists=1&fortune=1&activity=1&introduction=1&habits=1&discussions=1&repositories=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=repositories&line">
+      <img src="https://metrics.lecoq.io/NoobMasterDev?template=classic&isocalendar=1&languages=1&lines=1&followup=1&people=1&achievements=1&code=1&gists=1&fortune=1&activity=1&introduction=1&habits=1&discussions=1&repositories=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=repositories&line" width="700">
+      <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Gradients.png" width="700">
       </div>
     </details>
 <br>
