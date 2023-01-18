@@ -40,6 +40,7 @@ Hobbies: Watching Anime, Playing Games, Coding.
 ```
   <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="1000">
   <br>
+  <br>
   <details close>
     <summary align="left"><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&width=440&height=88&lines=%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9C%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BC;%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%AF%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%AE;%F0%9D%92%A2%F0%9D%92%BE%F0%9D%93%89%F0%9D%92%BD%F0%9D%93%8A%F0%9D%92%B7+%F0%9D%92%AE%F0%9D%93%89%F0%9D%92%B6%F0%9D%93%89%F0%9D%93%8A%F0%9D%93%88" width="400"></div></summary>
     <br>
