@@ -69,7 +69,11 @@ Hobbies: Watching Anime, Playing Games, Coding.
 <h4 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(3).gif"></h4>
     <img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/dancing-cute.gif" width="600">
     <br>
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8vspm4kl9j2g8fra5k906j8nl" width="500">
+    <a href="#">
+  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+    <br>
+<img align="center" src="https://spotify-blue-five.vercel.app/api?user=8vspm4kl9j2g8fra5k906j8nl" width="500">
 <br>
 <h5 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(2).gif"></h5>
   <div align="center">
