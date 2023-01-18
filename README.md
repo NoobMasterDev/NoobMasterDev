@@ -1,8 +1,12 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/03251ef591573bec65177c7498d8ca04.gif" width="800">
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
+<br>
+<img src="https://github.com/NoobMasterDev/NoobMasterDev/blob/master/Image/smile-anime-girl.gif?raw=true" width="800">
+<br>
 </div>
 <div align="center">𝓣𝓱𝓲𝓼 𝓪𝓬𝓬𝓸𝓾𝓷𝓽 𝔀𝓪𝓼 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓳𝓾𝓼𝓽 𝓯𝓸𝓻 𝓯𝓾𝓷.</div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&width=435&lines=%F0%9D%93%97%F0%9D%93%B2+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B6+%F0%9D%93%9D%F0%9D%93%B8%F0%9D%93%B8%F0%9D%93%AB%F0%9D%93%9C%F0%9D%93%AA%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
 </h1>
 <body>
 <br>
