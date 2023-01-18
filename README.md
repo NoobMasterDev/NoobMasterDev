@@ -16,12 +16,13 @@
 <div align="center"><img src="https://media.giphy.com/avatars/beautifullyflawedbean/Qt0TnOtUX3wh.GIF" width="20px" height="20px">𝓙𝓲𝓷𝓼𝓮𝓲 𝔀𝓪 𝓸𝓴𝓾𝓻𝓲𝓶𝓸𝓷𝓸𝓭𝓮𝓪𝓻𝓲, 𝓳𝓲𝓷𝓼𝓮𝓲 𝔀𝓪 𝔂𝓸𝓻𝓲𝔂𝓸𝓲 𝓷𝓲𝓷𝓰𝓮𝓷 𝓷𝓲 𝓷𝓪𝓻𝓾 𝓽𝓪𝓶𝓮 𝓷𝓸 𝓽𝓸𝓴𝓴𝓮𝓷, 𝓴𝓲𝓴𝓪𝓲, 𝓼𝓮𝓴𝓲𝓷𝓲𝓷 𝓸 𝔀𝓪𝓽𝓪𝓼𝓱𝓲𝓽𝓪𝓬𝓱𝓲 𝓷𝓲 𝓪𝓽𝓪𝓮𝓽𝓮 𝓴𝓾𝓻𝓮𝓶𝓪𝓼𝓾.𝓙𝓲𝓷𝓼𝓮𝓲 𝔀𝓪 𝓸𝓴𝓾𝓻𝓲𝓶𝓸𝓷𝓸𝓭𝓮𝓪𝓻𝓲, 𝓳𝓲𝓷𝓼𝓮𝓲 𝔀𝓪 𝔂𝓸𝓻𝓲𝔂𝓸𝓲 𝓷𝓲𝓷𝓰𝓮𝓷 𝓷𝓲 𝓷𝓪𝓻𝓾 𝓽𝓪𝓶𝓮 𝓷𝓸 𝓽𝓸𝓴𝓴𝓮𝓷, 𝓴𝓲𝓴𝓪𝓲, 𝓼𝓮𝓴𝓲𝓷𝓲𝓷 𝓸 𝔀𝓪𝓽𝓪𝓼𝓱𝓲𝓽𝓪𝓬𝓱𝓲 𝓷𝓲 𝓪𝓽𝓪𝓮𝓽𝓮 𝓴𝓾𝓻𝓮𝓶𝓪𝓼𝓾.<img src="https://media.giphy.com/avatars/beautifullyflawedbean/Qt0TnOtUX3wh.GIF" width="20px" height="20px">
 </div>
 <br>
-<h2 align="center"><img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="35px" height="35px">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 <img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="35px" height="35px"></h2>
+<h2 align="center"><img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="70px" height="70px"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(5).gif"><img src="https://vervate.com/wp-content/uploads/2015/10/dancing_banana.gif" width="70px" height="70px"></h2>
 <br>
   <img align="center"
        src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" 
        width="1000">
-<img align="left" src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/b838ed9eead6ce4b448bc020883ec881.gif" width="150px"/>
+<img align="left" src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/1674048077294.png" width="150px"/>
+  <div align="center">
 
 ```csharp
 My Profile v1.0: 
@@ -48,7 +49,7 @@ Hobbies: Watching Anime, Playing Games, Coding.
       </div>
     </details>
 <br>
-<h3 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/197371710-defc9481-6e71-486d-826b-cc8eaee7c6a9.gif" width="35px" height="35px">𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼<img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/197371710-defc9481-6e71-486d-826b-cc8eaee7c6a9.gif" width="35px" height="35px"></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(4).gif"></h3>
 <br>
   <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiU-0r-Jzwb7MkqhwnnIj7ybCvbyGGY-o4A&usqp=CAU">
@@ -65,18 +66,18 @@ Hobbies: Watching Anime, Playing Games, Coding.
 𝓘𝓶 𝓪𝓵𝓼𝓸 𝓿𝓮𝓻𝔂 𝓰𝓸𝓸𝓭 𝓪𝓽 𝔀𝓻𝓲𝓽𝓲𝓷𝓰 𝓖𝓾𝓲𝓭𝓮𝓼 𝓵𝓲𝓴𝓮 𝓶𝔂 𝓨𝓾𝔃𝓾 𝓔𝓶𝓾𝓵𝓪𝓽𝓸𝓻 𝓖𝓾𝓲𝓭𝓮 𝓸𝓻 𝔀𝓻𝓲𝓽𝓲𝓷𝓰 𝓽𝓱𝓲𝓼 𝓼𝓱𝓲𝓽 𝓱𝓮𝓻𝓮. 𝓛𝓲𝓽𝓮𝓻𝓪𝓵𝓵𝔂 𝓽𝓸𝓸𝓴 𝓶𝓮 𝓗𝓸𝓾𝓻𝓼 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮 𝓽𝓱𝓲𝓼 𝔀𝓱𝓲𝓵𝓮 𝓱𝓮𝓪𝓻𝓲𝓷𝓰 𝓶𝓾𝓼𝓲𝓬.
 </div>
 <br>
-<h4 align="center">🎧🎶𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓲𝓼𝓽𝓮𝓷𝓲𝓷𝓰🎧🎶</h4>
-![Preview](https://novatorem-silk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-<br>
+<h4 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(3).gif"></h4>
+    <img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/dancing-cute.gif" width="600">
+    <br>
 <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8vspm4kl9j2g8fra5k906j8nl" width="500">
 <br>
-<h5 align="center">⏳️𝓤𝓹𝓬𝓸𝓶𝓲𝓷𝓰 𝓟𝓻𝓸𝓳𝓮𝓬𝓽⏳️</h5>
+<h5 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(2).gif"></h5>
   <div align="center">
 <img src="https://github-readme-stats-eta-tan.vercel.app/api/pin/?username=NoobMasterDev&repo=Noob-Bot-ID&theme=react">
   </div>
 <br>
 <details close>
-<summary align="left"><div align="center"><img src="https://media0.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif?cid=6c09b9525a4ed6ff89b3788602eb72166896c73cf9a530e5&rid=giphy.gif" width="35px" heigh="35px">𝓣𝓸𝓹 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼<img src="https://media0.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif?cid=6c09b9525a4ed6ff89b3788602eb72166896c73cf9a530e5&rid=giphy.gif" width="35px" heigh="35px"></div></summary>
+<summary align="left"><div align="center"><img src="https://media0.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif?cid=6c09b9525a4ed6ff89b3788602eb72166896c73cf9a530e5&rid=giphy.gif" width="50px" heigh="50px"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text%20(1).gif"><img src="https://media0.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif?cid=6c09b9525a4ed6ff89b3788602eb72166896c73cf9a530e5&rid=giphy.gif" width="50px" heigh="50px"></div></summary>
 <br>
   <div align="center">
 <a href="https://github.com/NoobMasterDev/NoobMasterDev">
@@ -84,8 +85,8 @@ Hobbies: Watching Anime, Playing Games, Coding.
 </a>
     </div>
 </details>
-<h6 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h6>
-<div align="center">
-<img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/gif/sumi-sakurasawa-rent-a-girlfriend.gif" width="150">
-</div>
+<h6 align="center"><img src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/text.gif"></h6>
+    <br>
+<img src="https://github.com/NoobMasterDev/NoobMasterDev/blob/master/Image/ruka-sarashina-rent-a-girlfriend.gif?raw=true" width="150">
+  <img align="right" src="https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/Image/hello-mafumafu.gif">
 </body>
