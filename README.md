@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/NoobMasterDev/NoobMasterDev/master/video/e5fad41c-af2f-4408-8e7e-d86db01aeb81.mp4
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="800">
 <br>
